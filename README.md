@@ -14,6 +14,37 @@ Subsets of dataset formed from clustering were analysed and word clouds were plo
 
 Finally, a simple recommendation system was also tried out, the future scopes for the projects were also identified.
 
+Modelling Approach:
+
+Select the attributes based on which you want to cluster the shows
+
+Text preprocessing: Remove all non-ascii characters, stopwords and punctuation marks, convert all textual data to lowercase.
+
+Lemmatization to generate a meaningful word out of corpus of words
+
+Tokenization of corpus
+
+Word vectorization
+
+Dimensionality reduction
+
+Use different algorithms to cluster the movies, obtain the optimal number of clusters using different techniques
+
+Build optimal number of clusters and visualize the contents of each cluster using wordclouds.
+
+We will cluster the shows on Netflix based on the following attributes:
+
+Director
+
+Cast
+
+Country
+
+Listed in (genres)
+
+Description
+
+
 Conclusions:
 
 In this project, we worked on a text clustering problem wherein we had to classify/group the Netflix shows into certain clusters such that the shows within a cluster are similar to each other and the shows in different clusters are dissimilar to each other.
