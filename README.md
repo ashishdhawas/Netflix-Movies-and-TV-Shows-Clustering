@@ -1,6 +1,7 @@
 # Netflix-Movies-and-TV-Shows-Clustering
 
 Project Summary -
+
 In our project, Netflix Movies & TV Shows Clustering, we were able to analyse and perform an unsupervised Machine Learning Algorithm for the unlabelled datasets. The dataset we were provided with contains several columns and other numerical features. We were also asked two questions that could be answered from EDA.
 
 The EDA was done extensively as we needed to derive good insights to support our claim and hypothesis. We were able to answer the two questions that followed along with the EDA, country-wise trend analysis on content and genre; and also to analyse if Netflix was focusing more on Shows rather than Movies.
@@ -14,6 +15,7 @@ Subsets of dataset formed from clustering were analysed and word clouds were plo
 Finally, a simple recommendation system was also tried out, the future scopes for the projects were also identified.
 
 Conclusions:
+
 In this project, we worked on a text clustering problem wherein we had to classify/group the Netflix shows into certain clusters such that the shows within a cluster are similar to each other and the shows in different clusters are dissimilar to each other.
 
 The dataset contained about 7787 records, and 11 attributes.
